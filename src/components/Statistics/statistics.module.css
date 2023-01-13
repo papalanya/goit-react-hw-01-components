@@ -1,0 +1,36 @@
+.statistics {
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgba(252, 245, 236, 0.5);
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 10px;
+    margin-top: 50px;
+  }
+  
+  .title {
+    text-transform: uppercase;
+    color: #758797;
+  }
+  .list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  }
+  .item {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+  }
+  .label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: aliceblue;
+  }
+  
+  .percentage {
+    color: aliceblue;
+  }
